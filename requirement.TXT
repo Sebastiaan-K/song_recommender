@@ -1,0 +1,35 @@
+requirements.txt
+numpy==1.23.5
+pandas==2.0.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+spotipy==2.23.0
+sys==3.11.5
+pytoolconfig==1.2.5
+
+
+
+
+
+
+
+LAB 3 SPOTIFY API    2 imports left
+-------------------------------------------------
+import json
+import json?? Lab-spotify-api            
+
+Should be removed because we didnt use it in final version??
+
+------------------------------------------------------------------
+
+
+Not sure about this one::
+
+
+from time import sleep 
+time.sleep() is an exciting built-in function build in python
+
+
+Either name the python version or nothing?
+jinja2-time               0.2.0  maybe?
+---------------------------------------------------------------------
